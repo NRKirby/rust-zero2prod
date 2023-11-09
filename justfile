@@ -1,4 +1,7 @@
 
+audit:
+    cargo audit
+
 coverage:
     cargo tarpaulin --ignore-tests
 
