@@ -1,4 +1,6 @@
 
+coverage:
+    cargo tarpaulin --ignore-tests
 
 run-cargo-wc:
     cargo watch -x check
