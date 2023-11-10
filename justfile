@@ -16,3 +16,6 @@ run-cargo-wc:
 
 run-cargo-wct:
     cargo watch -x test -x run
+
+run:
+    cargo run
